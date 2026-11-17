@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Keep only the small sanitized fixture in version control.
+/data/*
+!/data/sample_reviews.jsonl

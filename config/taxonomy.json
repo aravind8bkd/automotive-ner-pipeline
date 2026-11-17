@@ -1,0 +1,85 @@
+{
+  "safety_critical_ids": [
+    "airbag",
+    "brake_system",
+    "steering_system",
+    "seat_belt"
+  ],
+  "components": [
+    {
+      "id": "air_filter",
+      "canonical_name": "Air filter",
+      "aliases": ["air filter", "engine air filter"]
+    },
+    {
+      "id": "airbag",
+      "canonical_name": "Airbag",
+      "aliases": ["airbag", "air bag", "side airbag"]
+    },
+    {
+      "id": "battery",
+      "canonical_name": "Battery",
+      "aliases": ["battery", "car battery", "12v battery"]
+    },
+    {
+      "id": "brake_system",
+      "canonical_name": "Brake system",
+      "aliases": ["brake", "brakes", "brake pad", "brake pads", "brake disc", "brake rotor", "brake pedal"]
+    },
+    {
+      "id": "catalytic_converter",
+      "canonical_name": "Catalytic converter",
+      "aliases": ["catalytic converter", "cat converter"]
+    },
+    {
+      "id": "engine",
+      "canonical_name": "Engine",
+      "aliases": ["engine", "motor"]
+    },
+    {
+      "id": "headlight",
+      "canonical_name": "Headlight",
+      "aliases": ["headlight", "headlights", "head lamp", "headlamp"]
+    },
+    {
+      "id": "oil_filter",
+      "canonical_name": "Oil filter",
+      "aliases": ["oil filter"]
+    },
+    {
+      "id": "seat_belt",
+      "canonical_name": "Seat belt",
+      "aliases": ["seat belt", "seatbelt"]
+    },
+    {
+      "id": "shock_absorber",
+      "canonical_name": "Shock absorber",
+      "aliases": ["shock absorber", "shocks", "strut", "struts"]
+    },
+    {
+      "id": "spark_plug",
+      "canonical_name": "Spark plug",
+      "aliases": ["spark plug", "spark plugs"]
+    },
+    {
+      "id": "steering_system",
+      "canonical_name": "Steering system",
+      "aliases": ["steering", "steering wheel", "power steering"]
+    },
+    {
+      "id": "tire",
+      "canonical_name": "Tire",
+      "aliases": ["tire", "tires", "tyre", "tyres"]
+    },
+    {
+      "id": "transmission",
+      "canonical_name": "Transmission",
+      "aliases": ["transmission", "gearbox"]
+    },
+    {
+      "id": "windshield",
+      "canonical_name": "Windshield",
+      "aliases": ["windshield", "windscreen"]
+    }
+  ]
+}

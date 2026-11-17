@@ -1,0 +1,20 @@
+{"review_id":"sample-001","text":"The brake pads were quiet and stopped smoothly.","entities":[{"canonical_id":"brake_system","text":"brake pads"}]}
+{"review_id":"sample-002","text":"My new car battery starts reliably in cold weather.","entities":[{"canonical_id":"battery","text":"car battery"}]}
+{"review_id":"sample-003","text":"The steering wheel feels loose at highway speed.","entities":[{"canonical_id":"steering_system","text":"steering wheel"}]}
+{"review_id":"sample-004","text":"The side airbag warning light came on after service.","entities":[{"canonical_id":"airbag","text":"side airbag"}]}
+{"review_id":"sample-005","text":"I replaced the engine air filter in ten minutes.","entities":[{"canonical_id":"air_filter","text":"engine air filter"}]}
+{"review_id":"sample-006","text":"These tires have good grip in the rain.","entities":[{"canonical_id":"tire","text":"tires"}]}
+{"review_id":"sample-007","text":"The headlamp is brighter than the original one.","entities":[{"canonical_id":"headlight","text":"headlamp"}]}
+{"review_id":"sample-008","text":"A fresh oil filter stopped the small leak.","entities":[{"canonical_id":"oil_filter","text":"oil filter"}]}
+{"review_id":"sample-009","text":"The gearbox shifts smoothly after the repair.","entities":[{"canonical_id":"transmission","text":"gearbox"}]}
+{"review_id":"sample-010","text":"One seatbelt buckle is difficult to latch.","entities":[{"canonical_id":"seat_belt","text":"seatbelt"}]}
+{"review_id":"sample-011","text":"The shocks make the ride less bumpy.","entities":[{"canonical_id":"shock_absorber","text":"shocks"}]}
+{"review_id":"sample-012","text":"I changed all four spark plugs this weekend.","entities":[{"canonical_id":"spark_plug","text":"spark plugs"}]}
+{"review_id":"sample-013","text":"The windshield has a small chip near the edge.","entities":[{"canonical_id":"windshield","text":"windshield"}]}
+{"review_id":"sample-014","text":"A mechanic checked the brake pedal before the trip.","entities":[{"canonical_id":"brake_system","text":"brake pedal"}]}
+{"review_id":"sample-015","text":"The catalytic converter was replaced under warranty.","entities":[{"canonical_id":"catalytic_converter","text":"catalytic converter"}]}
+{"review_id":"sample-016","text":"The engine runs quietly after the oil change.","entities":[{"canonical_id":"engine","text":"engine"}]}
+{"review_id":"sample-017","text":"The power steering feels lighter in parking lots.","entities":[{"canonical_id":"steering_system","text":"power steering"}]}
+{"review_id":"sample-018","text":"Both front tires wore evenly over the winter.","entities":[{"canonical_id":"tire","text":"tires"}]}
+{"review_id":"sample-019","text":"The brake disc was warped and needed replacement.","entities":[{"canonical_id":"brake_system","text":"brake disc"}]}
+{"review_id":"sample-020","text":"My email is alex@example.com and the air bag needs inspection.","entities":[{"canonical_id":"airbag","text":"air bag"}]}
